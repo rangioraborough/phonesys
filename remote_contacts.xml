@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneDirectory>
   <DirectoryEntry>
-    <Name>Sue Collie</Name>
+    <Name>Reception - Sue Collie</Name>
     <Telephone>700</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Janet Lintott - Reception</Name>
+    <Name>Reception - Janet Linttot</Name>
     <Telephone>702</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Kelly Taylor</Name>
+    <Name>Kelly's Office</Name>
     <Telephone>703</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Simon Green</Name>
-    <Telephone>704</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Jo Pasley</Name>
+    <Name>Jo's Office</Name>
     <Telephone>705</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Tony Myers</Name>
+    <Name>ICT Office - Tony Myers</Name>
     <Telephone>706</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
@@ -29,7 +25,7 @@
     <Telephone>707</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Sonia Koschinski</Name>
+    <Name>Sonia's Office</Name>
     <Telephone>708</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
@@ -37,87 +33,99 @@
     <Telephone>709</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>MiniLit</Name>
+    <Name>Hall</Name>
     <Telephone>710</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Marie Reed - Tui 1</Name>
+    <Name>T1 - Marie Reed</Name>
     <Telephone>714</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Sally Lamplugh - Tui 2</Name>
+    <Name>T2 - Sally Lamplugh</Name>
     <Telephone>715</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Shannon Morris - Tui 3</Name>
+    <Name>T3 - Shannon Morris</Name>
     <Telephone>716</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Tui 4</Name>
+    <Name>T4 - Yuta Ohata</Name>
     <Telephone>717</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>T5 - Rachel Frampton</Name>
+    <Telephone>728</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>T6 - Barbara Ditmer</Name>
+    <Telephone>746</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
     <Name>Tui Office</Name>
     <Telephone>733</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Mikayla Williams - Kakariki 1</Name>
+    <Name>Epic Room</Name>
+    <Telephone>718</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>K1 - Mikayla Williams</Name>
     <Telephone>719</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Annabelle Simpson - Kakariki 2</Name>
+    <Name>K2 - Annabelle Simpson</Name>
     <Telephone>720</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Kylee Doust - Kakariki 3</Name>
+    <Name>K3</Name>
     <Telephone>721</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Kakariki 4</Name>
+    <Name>K4 - Kylee Doust</Name>
     <Telephone>722</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Liana Abraham - NReR 1</Name>
-    <Telephone>734</Telephone>
+    <Name>R1 / R2 - Taara Boyle & Mike Bell</Name>
+    <Telephone>731</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Kirsty Robinson - NReR 2</Name>
-    <Telephone>735</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Rachel Frampton - T4</Name>
-    <Telephone>728</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>T4 Office</Name>
-    <Telephone>729</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Ruru 3 and 4 - Jasmin</Name>
+    <Name>R3 - Jasmine Treacy</Name>
     <Telephone>730</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Ruru 1 and 2 - Taara</Name>
-    <Telephone>731</Telephone>
+    <Name>R4 - Emma Cormack</Name>
+    <Telephone>729</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
     <Name>Ruru Office</Name>
     <Telephone>732</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Epic Room</Name>
-    <Telephone>718</Telephone>
+    <Name>Teina - Liana Abraham</Name>
+    <Telephone>734</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Tuakana - Kirsty Robinson</Name>
+    <Telephone>735</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Liana's Office</Name>
+    <Telephone>745</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
     <Name>UNASSIGNED</Name>
     <Telephone>737</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Minilit (740)</Name>
+    <Name>Minilit - Nicky Lancaster</Name>
     <Telephone>740</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Julie Brugh - Library</Name>
+    <Name>Library - Julie Brugh</Name>
     <Telephone>744</Telephone>
   </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Music Room</Name>
+    <Telephone>747</Telephone>
+  </DirectoteEntry>
 </YealinkIPPhoneDirectory>
